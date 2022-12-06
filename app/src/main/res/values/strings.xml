@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Thirty Days Of Minimalism</string>
+
+    <string name="day_number">Day %d </string>
+    <string name="expand_button_content_description">See more or less information about a tip.</string>
+    <string name="tip_description_title">Suggested Information:</string>
+
+    <string name="tip_name_1">Stay offline for a day</string>
+    <string name="tip_name_2">Clean out your closet</string>
+    <string name="tip_name_3">Go a day without complaining</string>
+    <string name="tip_name_4">Examine your daily habits</string>
+    <string name="tip_name_5">Take a step towards learning a new skill</string>
+    <string name="tip_name_6">Ditch watching TV, read instead</string>
+    <string name="tip_name_7">Try no email or social media until after lunch</string>
+    <string name="tip_name_8">Identify your 3 to 6 main priorities</string>
+    <string name="tip_name_9">Go for a walk and practice mindfulness</string>
+    <string name="tip_name_10">Declutter your digital life</string>
+    <string name="tip_name_11">Practice single tasking</string>
+    <string name="tip_name_12">Turn off notifications</string>
+    <string name="tip_name_13">Identify your stress triggers</string>
+    <string name="tip_name_14">Follow a morning ritual</string>
+    <string name="tip_name_15">Evaluate your spending habits</string>
+    <string name="tip_name_16">Learn to enjoy solitude</string>
+    <string name="tip_name_17">Evaluate your commitments</string>
+    <string name="tip_name_18">Leave an entire day unplanned</string>
+    <string name="tip_name_19">Let go of variables in your life that you cannot change</string>
+    <string name="tip_name_20">Define your goals for this year</string>
+    <string name="tip_name_21">Meditate for fifteen minutes</string>
+    <string name="tip_name_22">Clear out your junk drawer</string>
+    <string name="tip_name_23">Create a relaxing bedtime routine</string>
+    <string name="tip_name_24">Do not buy anything for 24 hours</string>
+    <string name="tip_name_25">Journal for 20 minutes</string>
+    <string name="tip_name_26">Unfollow and unfriend</string>
+    <string name="tip_name_27">Practice gratitude</string>
+    <string name="tip_name_28">Streamline your reading list</string>
+    <string name="tip_name_29">Go digital</string>
+    <string name="tip_name_30">Invest in experiences, not material things</string>
+
+    <string name="tip_description_1">You will be able to focus better, pay better attention to your surroundings, and feel more at peace with yourself if you stay offline. It will be easier for you to enjoy the little things in life when you do not have distractions like your phone or computer constantly reminding you of everything else going on in your life.</string>
+    <string name="tip_description_2">The more stuff you have, the less space you have for anything else. It is important to realize that having too much stuff will make you feel like your life is disorganized, cluttered, and chaotic.</string>
+    <string name="tip_description_3">You do not have to be happy all the time, but you do have to stop complaining. If you complain once, you are guaranteed to complain again. If you stop complaining, there will be no reason for you to complain anymore.</string>
+    <string name="tip_description_4">If you are a minimalist, you have heard the saying, "Less is more." But how do you find the right balance between "less" and "more"?
+The answer lies in your daily habits. How do you dress yourself in the morning? Do you have a morning routine? If so, what does it include? What do you eat for breakfast? What time do you go to bed? These are all questions that can help you find out if minimalism is for you.
+</string>
+    <string name="tip_description_5">Minimalism is a lifestyle, not just a single item or feature and it is not about getting rid of everything you own, but it is about taking a step towards learning a new skill and making the most of your capabilities.</string>
+    <string name="tip_description_6">Instead of wasting time watching TV, why not read? Reading is a great form of entertainment, and it is good for your mental health. It can help you develop new skills, think about things in diverse ways and even find inspiration for your own writing.
+Reading also makes you more intelligent. This is because it improves your vocabulary and makes you better at thinking logically. It also broadens your knowledge base so that you will be able to understand the world around you better when you leave the book behind.
+</string>
+    <string name="tip_description_7">This tip is brief and easy to follow through on. You do not have to spend a lot of time thinking about how to avoid the temptation of checking your phone at work or starting up with an email while you are eating lunch. You can just say no, and then stick with it.
+If you have already been sticking with your new habits for a while now, then this might be too easy for you—it will feel like nothing more than an exercise in willpower and self-control (which it is).
+</string>
+    <string name="tip_description_8">Identify your 3 to 6 main priorities and make sure they align with your core values. This will help you focus on only those things that are most important to you.
+Decide what type of minimalism is right for you — there are advantages and disadvantages to both extreme forms of minimalism (thriving vs. surviving). The middle ground is often best; this allows for flexibility, creativity, and personal growth without sacrificing too much (or any) comfort or security.
+</string>
+    <string name="tip_description_9">Notice the colors around you; look at the sky overhead or down below; notice the smells coming from plants, trees, or flowers; listen to birds chirping or frogs croaking; feel yourself breathing in through your nose while exhaling out through your mouth. Notice any feelings that arise during this exercise — happy, sad, anxious — but do not attach them to any thought or memory: just observe them as they come up without reacting emotionally to them.</string>
+    <string name="tip_description_10">Minimalism is not about living a life of austerity. It is about being conscious of what you own and how much space it takes up in your life, while keeping your belongings to a minimum. The idea behind minimalism applies to declutter your digital life as well, by cleaning out all the useless junk that is collecting in your inbox, on your desktop and elsewhere.</string>
+    <string name="tip_description_11">It is easy to get distracted by the next big thing: I am about to start a new project! I have saved up for my trip! There is so much work to do in life! But if you are always moving from one task to another, you will never get anything done. Therefore, one should always focus on one task at a time and give it full concentration and effort.</string>
+    <string name="tip_description_12">By turning off notifications you separate yourself from needing to constantly look at your phone and thus give your mind more thought space to create and produce innovative ideas and solutions to problems that you might encounter in your life. Psychologically speaking, this clears up your mental space.</string>
+    <string name="tip_description_13">It is easy to get stressed when you allow tasks to pile up and accumulate. This often comes from a history of people having a perfectionist attitude which tends to make people leave tasks due until they have found a perfect way to deal with them. To address this problem, it is useful to investigate the underlying causes to the stress and try to address those issues.</string>
+    <string name="tip_description_14">The ideal morning routine will promote wellness and set you up for success throughout the day. There are numerous steps you can take to create a morning routine that works for you, ranging from avoiding social media to drinking water and listening to a podcast.</string>
+    <string name="tip_description_15">Tracking your spending is the best way to understand how much money is going out every week or month. Hobbies, groceries, travel, transportation, even mocha lattes, all add up at the cash register. How can you stay on top of things? You can always tackle your spending by creating a personal spreadsheet.</string>
+    <string name="tip_description_16">We believe that not having someone around indicates that there is something wrong with us or that something is missing in our lives. Any time we find ourselves alone causes us to panic and fear to the point where we would rather be with the wrong people than be alone.
+Getting in touch with yourself, as well as being aware of your triggers, behaviors, likes and dislikes, fears, motives, needs, desires, and dreams, are all necessary steps toward becoming your own best friend. Discover who you are, what motivates you, and what holds you back from reaching your goals.
+</string>
+    <string name="tip_description_17">It is all too easy for our commitments to take over our lives without our conscious awareness. The first step in effecting change is to be intentional and examine our schedules.
+When you have a clear plan for your schedule and your time, it is much easier to do something new. When considering any opportunity, consider whether it aligns with your values and goals, as well as whether you have the time available in your schedule. Just because you have the time does not mean you have to say yes.
+</string>
+    <string name="tip_description_18">When you let the day to day of life carry you around in your life, you can start to observe the behaviors that you possess which you can then assess and optimize, and this allows for an individual to practice self-improvement.</string>
+    <string name="tip_description_19">Holding on to things we cannot change can lead to a lot of stress and unhappiness. It also keeps us stuck in the past, preventing us from growing and living freely. We must learn to let go if we are to be happy and free.</string>
+    <string name="tip_description_20">You do not have to wait until the new year to set up a few goals that you would like to accomplish this year (or maybe the next!). Either way, setting up a few goals and then breaking them up into actionable steps helps set up a timeline that makes an otherwise daunting target seem manageable. Those actionable steps can also be seen as milestones as you undertake the journey that you set for yourself!</string>
+    <string name="tip_description_21">Meditating has physical as well as spiritual benefits that are hard to ignore. Allowing yourself to be one with your thoughts and feelings helps to establish a clear mindset and makes it easier to put your focus towards things that really matter in life.</string>
+    <string name="tip_description_22">Some things in our life are ‘just sitting there.’ So why not take the time to get rid of items inside your household which do not necessarily serve a purpose and have been accumulating dust throughout the years.
+Consider donating the items that you no longer use or having a yard sale. Some things that might not benefit you could have some benefit for other people
+</string>
+    <string name="tip_description_23">After an exhausting day at work or extensive household chores, its inevitable to feel tired or worn out. Therefore, it is essential for you to set up a nighttime routine which helps you get in a relaxed state and makes way for a peaceful sleep afterwards.</string>
+    <string name="tip_description_24">This might be difficult for people with a spending problem, but it might help to exercise this tip to cultivate will power and overcome excessive expenditure on otherwise useless stuff</string>
+    <string name="tip_description_25">It can be difficult to know how you think and feel when you keep your thoughts in your head. Writing down your emotions will help you process them because feelings become words, which can then be edited. And when you edit your feelings, you change your perspective and become a better person.</string>
+    <string name="tip_description_26">Apply this tip cautiously. Think about how the people in your life affect your thoughts and emotional state. Do certain people give you negative energy? Maintain an appropriate distance from them. What about people who genuinely care for you, keep them close to your heart. You are the average of your five closest friends so choose your friends wisely.</string>
+    <string name="tip_description_27">It is surprising how many things we take for granted. This is especially true for the 21st century. With the invention of social media, and the rise of the digital world, communication has made it near instant and with it the pace of the modern world. It is easy to for us get caught up in the rat race and forget about our purpose and privileges. Therefore, it is necessary to practice gratitude to appreciate the blessings that we have and to live in the moment.</string>
+    <string name="tip_description_28">Are the books on your shelf collecting dust? Take the time to organize your books and put one near your bed table to make it accessible for light reading. The benefits to reading include the growth of your vocabulary, improvement in your comprehension and a better expression of your thoughts and emotions. Make it a daily habit and reap the rewards.</string>
+    <string name="tip_description_29">Opt-in for digital bank statements instead of paper mail. Store your books on your digital media. Use digital wallets and contactless payments at restaurants and stores. In this way, you are not only practicing minimalism but also helping the environment by being eco-friendly. </string>
+    <string name="tip_description_30">Research shows that people value experiences more than they prize material possessions and that is because they associate a feeling of satisfaction. So, if you are trying to be happy, ‘do’ something that makes you happy, do not ‘get’ something that makes you happy.</string>
+</resources>
